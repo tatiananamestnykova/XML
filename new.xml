@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE data>
-<personal data lastname="namestnykova" name="tatiana" patronymic="nykolaevna">
-</title>
 <data>
-<age="41", pets="ants" number of pets="200" future desired salary="400">
+<title>Personal data</title>
+<list>Namestnykova Tatiana Nykolaevna</list>
+<list>I am forty one years old</list>
+<hobby>pets=ants, number of pets=200</hobby>
+<list>future desired salary=400</list>
+</data>
