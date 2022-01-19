@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE data>
-<My preferences>
-</title>
 <data>
-<1="Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC",
-2="Что такое клиент-серверная архитектура",
-3="HTTP Методы запросов на сервер","4":"Коды ответов HTTP сервера",
-5="Структуры HTTP запросов и ответов",
-6="Что такое JSON, XML. Их структура",
-7="Тестирование API через Postman (JS, автотесты API)",
-8="Снятие и чтение логов c внешнего сервера",
-9="Снифинг http web трафика через Charles и Fiddler",
-10="Dev Tools веб браузеров (Google Chrome, FireFox)",
-11="VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)",
-12="Мобильное тестирование",
-13="Особенность iOS, Android, гайдлайны",
-14="Сборка iOS приложений на XCode. (У кого нет Mac компьютера, просто посмотрят)",
-15="Сборка Android приложений на Android Studio",
-16="ADB (управление андройд девайсами)",
-17="Настройка прокси и vpn на iOS и Android",
-18="Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android",
-19="Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)",
-20="Основы bash скриптинг, автоматизация рутинных задач на сервере",
-21="Доступ к удалённым серверам",
-22="Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
-23="База данных Postgres (установка, настройка и использование)",
-24="Нереляционная база данных Redis (установка, настройка и использование)",
-25="Нагрузочное тестирование в Jmeter",
-26="Методология разработки Scrum",
-27="Python. (Изучение основ. Создание клиент серверного приложения)">
+<title>Skills</title>
+<list>1. Basic theory (What is testing, bug reports, documentation, types, methods, areas of testing, etc.) SDLC, STLC.</list>
+<list>2. What is a client-server architecture.</list>
+<list>3. HTTP Methods of requests to the server.</list>
+<list>4. HTTP server response codes.</list>
+<list>5. Structures of HTTP requests and responses.</list>
+<list>6. What is JSON, XML. Their structure.</list>
+<list>7. API testing via Postman (JS, API autotests).</list>
+<list>8. Removing and reading logs from an external server.</list>
+<list>9. Sniffing http web traffic via Charles and Fiddler.</list>
+<list>10. Dev Tools of web browsers (Google Chrome, FireFox).</list>
+<list>11. VPN. (How it works, why you need it, how to use it, tool options)</list>
+<list>12. Mobile testing.</list>
+<list>13. Feature iOS, Android, guidelines.</list>
+<list>14. Building iOS applications on XCode. (Those who do not have a Mac computer, just look)</list>
+<list>15. Building Android applications on Android Studio.</list>
+<list>16. ADB (android device management).</list>
+<list>17. Setting up proxy and vpn on iOS and Android.</list>
+<list>18. Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.</list>
+<list>19. Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</list>
+<list>20. Basics of bash scripting, automation of routine tasks on the server.</list>
+<list>21. Access to remote servers.</list>
+<list>22. SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</list>
+<list>23. Postgres database (installation, configuration and use).</list>
+<list>24. Non-relational database Redis (installation, configuration and use).</list>
+<list>25. Load testing in Jmeter.</list>
+<list>26. Scrum development methodology.</list>
+<list>27.Python. (Learning the basics. Creating a client-server application)</list>
+</data>
